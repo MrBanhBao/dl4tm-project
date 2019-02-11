@@ -1,6 +1,9 @@
 # dl4tm-project
 
 This is a project by Lucas Böhme and Hao Nguyen.
+This project aims to teach a machine generating german rap lyrics.
+
+
 
 inside the exploration directory you will see several notebook.
 * Notebooks whith model building and training scrips
